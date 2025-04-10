@@ -1,3 +1,6 @@
 # Readme.md
 
-Some simple discription
+Some simple discription!
+
+Beginner guide on Git
+
